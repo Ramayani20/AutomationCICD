@@ -1,0 +1,8 @@
+frameworklearn\pageobjects\ConfirmationPage.class
+frameworklearn\pageobjects\ProductCatalogue.class
+frameworklearn\resources\ExtentReporterNG.class
+frameworklearn\pageobjects\Orderspage.class
+frameworklearn\AbstractComponents\AbstractComponent.class
+frameworklearn\pageobjects\LandingPage.class
+frameworklearn\pageobjects\CartItems.class
+frameworklearn\pageobjects\CheckoutPage.class

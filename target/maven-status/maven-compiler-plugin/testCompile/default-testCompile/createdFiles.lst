@@ -1,0 +1,9 @@
+frameworklearn\TestComponents\BaseTest.class
+frameworklearn\TestComponents\Listeners.class
+frameworklearn\tests\ErrorValidationsTest.class
+frameworklearn\data\DataReader$1.class
+frameworklearn\tests\StandAloneTest.class
+frameworklearn\data\DataReader.class
+frameworklearn\TestComponents\BaseTest$1.class
+frameworklearn\tests\SubmitOrderTest.class
+frameworklearn\TestComponents\Retry.class
